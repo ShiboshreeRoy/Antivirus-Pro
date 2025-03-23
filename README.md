@@ -22,3 +22,6 @@ Antivirus Pro is a lightweight, multi-threaded desktop antivirus scanner with a 
 
 Install dependencies with:
 
+```bash 
+pip install -r requirements.txt
+
