@@ -24,9 +24,10 @@ Install dependencies with:
 
 ```bash 
 pip install -r requirements.txt
+```
 
 
 ## Run 
 ```bash 
 python exe.py
-
+```
