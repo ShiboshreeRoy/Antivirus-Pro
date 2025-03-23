@@ -2,6 +2,9 @@
 
 Antivirus Pro is a lightweight, multi-threaded desktop antivirus scanner with a sleek Apple iOS-like interface. It scans directories for known malware signatures and suspicious files based on file types and heuristics, allowing users to quarantine or delete threats easily.
 
+---
+![Antivirus Pro](./demo/image.png)
+---
 ## Features
 
 - ✅ Signature-based malware detection (using file hashes)
